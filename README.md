@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AliHaamedi
 - 👀 I’m interested in Photography
-- 🌱 I’m currently learning JavaScript
+- 🌱 I am currently developing my skills
 
 <!---
 AliHaamedi/AliHaamedi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
